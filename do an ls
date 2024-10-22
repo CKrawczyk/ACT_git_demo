@@ -1,1 +1,2 @@
 print('do an ls')
+\cd workspace
